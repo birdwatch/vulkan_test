@@ -1,0 +1,12 @@
+﻿  main.cpp
+main.obj : error LNK2019: 未解決の外部シンボル _vkEnumerateInstanceExtensionProperties@12 が関数 _main で参照されました
+main.obj : error LNK2019: 未解決の外部シンボル _glfwInit が関数 _main で参照されました
+main.obj : error LNK2019: 未解決の外部シンボル _glfwTerminate が関数 _main で参照されました
+main.obj : error LNK2019: 未解決の外部シンボル _glfwWindowHint が関数 _main で参照されました
+main.obj : error LNK2019: 未解決の外部シンボル _glfwCreateWindow が関数 _main で参照されました
+main.obj : error LNK2019: 未解決の外部シンボル _glfwDestroyWindow が関数 _main で参照されました
+main.obj : error LNK2019: 未解決の外部シンボル _glfwWindowShouldClose が関数 _main で参照されました
+main.obj : error LNK2019: 未解決の外部シンボル _glfwPollEvents が関数 _main で参照されました
+C:\VulkanSDK\1.2.170.0\Lib\vulkan-1.lib : warning LNK4272: ライブラリのコンピューターの種類 'x64' がターゲットのコンピューターの種類' x86' と競合しています
+C:\Users\tk221\Documents\Visual Studio 2017\glfw-3.3.2\lib-vc2019\glfw3.lib : warning LNK4272: ライブラリのコンピューターの種類 'x64' がターゲットのコンピューターの種類' x86' と競合しています
+C:\Users\tk221\source\repos\vulkan\Debug\vulkan.exe : fatal error LNK1120: 8 件の未解決の外部参照
